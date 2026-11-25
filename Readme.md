@@ -3,3 +3,7 @@
 ---
 
 ### [SEARCHING](./SEARCHING)
+
+---
+
+### [LOGICAL AGENTS](./LOGICAL_AGENTS)
