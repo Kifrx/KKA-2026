@@ -1,9 +1,9 @@
-### [PENGANTAR](./PENGANTAR)
+### [PENGANTAR](./Pengantar)
 
 ---
 
-### [SEARCHING](./SEARCHING)
+### [SEARCHING](./Searching)
 
 ---
 
-### [LOGICAL AGENTS](./LOGICAL_AGENTS)
+### [LOGICAL AGENTS](./Logical_Agents)
